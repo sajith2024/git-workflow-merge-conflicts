@@ -1,1 +1,2 @@
 This is the second line of the document (created in fix branch)
+This is the second line of the document (created in fix branch)
